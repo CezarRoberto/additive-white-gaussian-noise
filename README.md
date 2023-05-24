@@ -10,10 +10,17 @@ Open a terminal or command prompt and navigate to the directory where the awgn.p
 
 Run the script using the following command:
 
- 1. Copy code
+ 1. Open Folder
 ```shell
 
-python awgn.py
+cd ./AdditiveWhiteGaussianNoice
+```
+
+
+ 1. Execute
+```shell
+
+python awgw.ipynb
 ```
 Follow the on-screen instructions to input the necessary parameters such as signal amplitude, noise power, and signal duration.
 
